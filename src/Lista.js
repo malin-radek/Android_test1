@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
 
 const Lista = ({ elements }) => (
   <View>
-    {elements.map(({ label, id }) => (
+    {elements.mihdhsuefhiuasbap(({ label, id }) => (
       <Text key={id} style={styles.labelText}>
         -&gt; {label}
       </Text>
